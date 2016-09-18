@@ -9,3 +9,5 @@
 [三、练习二分查找](https://github.com/KingShawn/Blog/issues/3 "练习二分查找")
 
 [四、关于DRY的实践](https://github.com/KingShawn/Blog/issues/4 "关于DRY的实践")
+
+[五、注解式事务的小陷阱](https://github.com/KingShawn/Blog/issues/5 "注解式事务的小陷阱")
