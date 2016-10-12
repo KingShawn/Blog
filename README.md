@@ -11,3 +11,7 @@
 [四、关于DRY的实践](https://github.com/KingShawn/Blog/issues/4 "关于DRY的实践")
 
 [五、注解式事务的小陷阱](https://github.com/KingShawn/Blog/issues/5 "注解式事务的小陷阱")
+
+[六、Spring Security 问题集锦(持续更新)](https://github.com/KingShawn/Blog/issues/6 "Spring Security 问题集锦")
+
+
