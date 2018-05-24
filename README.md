@@ -14,6 +14,6 @@
 
 [六、Spring Security 问题集锦(持续更新)](https://github.com/KingShawn/Blog/issues/6 "Spring Security 问题集锦")
 
-[六、Mysql 技术实战 个人分享](https://github.com/KingShawn/Blog/issues/7 "Mysql 技术实战 个人分享")
+[七、Mysql 技术实战 个人分享](https://github.com/KingShawn/Blog/issues/9 "Mysql 技术实战 个人分享")
 
 
